@@ -18,7 +18,6 @@ pub mod service;
 pub mod terminal;
 pub mod toolkits;
 pub mod uri;
-pub mod welcome;
 
 pub use file::{with_file_lock, write_atomic, write_private};
 pub use keyboard::SystemKeyboard;
